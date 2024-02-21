@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+table{
+    background-color: white;
+
+}
+.titulo{
+    font-size: 40px;
+}
+.subtitulo{
+    font-size: 25px;
+    font-weight: 300;
+}
+td{
+    cursor: pointer;
+}
+.marcado{
+    background-color: #f2f2f2;
+}
+.dia:hover{
+ background: #f2f2f2;
+}
